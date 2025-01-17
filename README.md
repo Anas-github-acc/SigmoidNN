@@ -6,6 +6,11 @@ You can customize the layers, activation functions, and data to train and test t
 
 ---
 
+#### Checkout python library [sigmoidNN](https://pypi.org/project/sigmoidNN/) for this repo
+```python
+python3 -m pip install sigmoidNN
+```
+
 ## Features
 
 - **Fully Customizable Neural Network:** Define your own architecture, including the number of layers and neurons.
