@@ -6,7 +6,7 @@ You can customize the layers, activation functions, and data to train and test t
 
 ---
 
-#### Checkout python library [sigmoidNN](https://pypi.org/project/sigmoidNN/) for this repo
+#### Checkout our python library [sigmoidNN](https://pypi.org/project/sigmoidNN/)
 ```python
 python3 -m pip install sigmoidNN
 ```
@@ -36,7 +36,7 @@ project-root/
 │   └── mnist/          # MNIST dataset files
 |
 ├── src/trained_instances/   # Pre-trained model instances
-│   └── node[<accuracy>].json # Example trained model for MNIST
+│   └── net[<accuracy>].json # Example trained model for MNIST
 |
 └── README.md           # Project documentation (this file)
 ```
