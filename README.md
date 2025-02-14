@@ -36,7 +36,7 @@ project-root/
 │   └── mnist/          # MNIST dataset files
 |
 ├── src/trained_instances/   # Pre-trained model instances
-│   └── mnist_model.pkl      # Example trained model for MNIST
+│   └── node[<accuracy>].json # Example trained model for MNIST
 |
 └── README.md           # Project documentation (this file)
 ```
@@ -57,8 +57,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Anas-github-acc/SigmoidNN
+   cd SigmoidNN
    ```
 2. Create the environment (it's recommended to use a virtual environment)::
    ```bash
